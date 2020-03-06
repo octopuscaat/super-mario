@@ -1,4 +1,4 @@
-# Code Super Mario Bros. in JavaScript
+[![Run on Repl.it](https://repl.it/badge/github/meth-meth-method/super-mario)](https://repl.it/github/meth-meth-method/super-mario)# Code Super Mario Bros. in JavaScript
 
 Create a Super Mario game in vanilla JavaScript from scratch. 
 
